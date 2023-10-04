@@ -25,7 +25,7 @@ license:		creative commons CC-BY-NC-SA
 		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
 			<color>d8d8d8</color>
 			<forceUppercase>1</forceUppercase>
-			<fontPath>./art/Roboto-Light.ttf</fontPath>
+			<fontPath>./art/OPENSANS.TTF</fontPath>
 			<fontSize>0.025</fontSize>
 			<size>0.12 0.04</size>
 		</text>
@@ -33,7 +33,7 @@ license:		creative commons CC-BY-NC-SA
 		<text name="md_rating, md_developer, md_publisher, md_genre, md_players, md_playcount">
 			<color>d8d8d8</color>
 			<forceUppercase>1</forceUppercase>
-			<fontPath>./art/Roboto-Light.ttf</fontPath>
+			<fontPath>./art/OPENSANS.TTF</fontPath>
 			<fontSize>0.025</fontSize>
 			<size>0.14 0.04</size>
 		</text>
@@ -41,14 +41,14 @@ license:		creative commons CC-BY-NC-SA
 		<text name="md_description">
 			<color>d8d8d8</color>
 			<forceUppercase>1</forceUppercase>
-			<fontPath>./art/Roboto-Light.ttf</fontPath>
+			<fontPath>./art/OPENSANS.TTF</fontPath>
 			<fontSize>0.025</fontSize>
 		</text>
 		
 		<datetime name="md_releasedate, md_lastplayed">
 			<color>d8d8d8</color>
 			<forceUppercase>1</forceUppercase>
-			<fontPath>./art/Roboto-Light.ttf</fontPath>
+			<fontPath>./art/OPENSANS.TTF</fontPath>
 			<fontSize>0.025</fontSize>
 			<size>0 0.04</size>
 		</datetime>
@@ -79,7 +79,7 @@ license:		creative commons CC-BY-NC-SA
 			<selectedColor>0098a6</selectedColor>
 			<primaryColor>ebebeb</primaryColor>
 			<secondaryColor>ebebeb</secondaryColor>
-			<fontPath>./art/Roboto-Regular.ttf</fontPath>
+			<fontPath>./art/OPENSANS.TTF</fontPath>
 			<fontSize>0.03</fontSize>
 			<forceUppercase>1</forceUppercase>
 		</textlist>
